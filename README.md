@@ -1,7 +1,7 @@
 # Completando o Framework Scrum
 
 Desafio de projeto **Completando o Framework Scrum**.
-Link para o projeto no Miro: [[Marcos] Desafio de Projeto - SCRUM](https://miro.com/app/board/uXjVMCOCPH4=/)
+Link para o projeto no Miro: [[Marcos] Desafio de Projeto - SCRUM](https://miro.com/app/board/uXjVMCOCPH4=/) ou [[Marcos] Desafio de Projeto - SCRUM](https://miro.com/welcomeonboard/SG5BYjFkVW1nQWdXelR2YzFFelVpaTdtZXVsSjdwMHRpdGZoWkQzdEhpdDB6eEEwSU9SekFXNURac3JHQzBkNHwzNDU4NzY0NTU2MTU1NjkxMzg5fDI=?share_link_id=690961898564)
 
 ## Desafio DIO
 
