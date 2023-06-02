@@ -9,4 +9,5 @@ Este projeto é um desafio proposto na plataforma Digital Inovation One
 
 ## Template
 
-Template no Miro: [Template](https://miro.com/app/board/uXjVPahls68=/?share_link_id=956189813435)Scrum Guide: [Download](https://scrumguides.org/index.html)
+- Template no Miro: [Template](https://miro.com/app/board/uXjVPahls68=/?share_link_id=956189813435)
+- Scrum Guide: [Download](https://scrumguides.org/index.html)
